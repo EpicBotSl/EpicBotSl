@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Friday and other bots.**
 
-- 🌱 I’m currently learning **Something**
+- 🌱 I’m currently learning **Awesome things.**
 
 - 🛰️ Part of any community? [DevsExpo](https://github.com/DevsExpo)
 
-- 💬 Ask me about **Nothing**
+- 💬 Ask me about **Anything**
 
 - ⚡ Fun fact **I am human.**
 
