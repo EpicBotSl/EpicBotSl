@@ -7,11 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chsaiujwal" target="blank"><img src="https://img.shields.io/twitter/follow/chsaiujwal?logo=twitter&style=for-the-badge" alt="chsaiujwal" /></a> </p>
 
-- 🔭 I’m currently working on **Friday and other bots.**
-
 - 🌱 I’m currently learning **Awesome things.**
-
-- 🛰️ Part of any community? [DevsExpo](https://github.com/DevsExpo)
 
 - 💬 Ask me about **Anything**
 
