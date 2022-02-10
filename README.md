@@ -68,4 +68,4 @@
   
 #
  
-![footer](https://github.com/chsaiujwal/chsaiujwal/blob/master/footer.webp)
+![footer](https://github.com/chsaiujwal/chsaiujwal/blob/main/footer.webp)
