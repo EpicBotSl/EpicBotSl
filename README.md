@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything**
 
-- ⚡ Fun fact **I am human.**
+- ⚡ Fun fact **Engineering student but happy.**
 
 <br><br><br>
 <br>
