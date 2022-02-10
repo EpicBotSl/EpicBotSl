@@ -30,9 +30,9 @@
 
   <p align="center">
   <a>
-    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/left.png">
+    <img height="150" width="150" src="left.webp">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chsaiujwal&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=dark&hide_border=true"/>
-    <img height="150" width="150" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/right.png">
+    <img height="150" width="150" src="right.webp">
   </a>
 </p>
   <h1 dir="auto"></h1>
