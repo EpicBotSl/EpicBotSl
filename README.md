@@ -57,7 +57,7 @@
 <p align="center">
 <a href="https://twitter.com/chsaiujwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chsaiujwal" height="60" width="60" /></a>
 <a href="https://instagram.com/chsaiujwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saiujwalch" height="60" width="60" /></a>
-  <a href="https://t.me/chsaiujwal" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/344/telegram-app.png" alt="chsaiujwal" height="60" width="60" /></a>
+  <a href="https://t.me/chsaiujwal" target="blank"><img align="center" src="https://github.com/chsaiujwal/chsaiujwal/blob/main/telegram-app.png" alt="chsaiujwal" height="60" width="60" /></a>
   <a href="https://www.reddit.com/user/TheCruelPsychopath" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/344/reddit--v2.png" alt="saiujwalch" height="60" width="60" /></a>
   <a href="https://www.hackerrank.com/chsaiujwal/" target="blank">
   <img height="70" width="70" align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-1024.png"/>
