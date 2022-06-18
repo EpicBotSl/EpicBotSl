@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm CHSAIUJWAL</h1>
-<h3 align="center">I am from Hyderabad, India 🇮🇳</h3>
-<h3 align="center">Pursuing btech in B V Raju Institute of Technology 🏫</h3>
+<h1 align="center">Hi 👋, I'm NAVANJANA</h1>
+<h3 align="center">I am from Rathnapura, Sri lanka🇱🇰</h3>
+<h3 align="center">Owner Of EpicBot Industry</h3>
 <img align="right" width="250" height="250" src="https://media4.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif?cid=ecf05e472ccszmrvpity8e9o9v3hnb50fnu72miw05xe8frj&rid=giphy.gif&ct=g">
 
 
