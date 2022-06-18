@@ -11,27 +11,27 @@
 
 - 💬 Ask me about **Anything**
 
-- ⚡ Fun fact **Engineering student but happy.**
+- ⚡ Epic Developers **Owner Of Epic Bots.**
 
 <br><br><br>
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chsaiujwal&label=Profile%20views&color=0e75b6&style=flat" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/chsaiujwal?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/chsaiujwal?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img src="https://komarev.com/ghpvc/?username=EpicBotSl&label=Profile%20views&color=0e75b6&style=flat" alt="𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚟𝚒𝚎𝚠𝚜"> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/EpicBotSl?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/EpicBotSl?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 
 <h1 dir="auto"></h1>
 
 
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=chsaiujwal&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/JayantGoel001)
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=EpicBotSl&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/EpicBotSl)
 
   <p align="center">
   <a>
     <img height="150" width="150" src="left.webp">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chsaiujwal&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=EpicBotSl&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=dark&hide_border=true"/>
     <img height="150" width="150" src="right.webp">
   </a>
 </p>
@@ -55,9 +55,9 @@
   </h1>
 
 <p align="center">
-<a href="https://twitter.com/chsaiujwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chsaiujwal" height="60" width="60" /></a>
-<a href="https://instagram.com/chsaiujwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saiujwalch" height="60" width="60" /></a>
-  <a href="https://t.me/chsaiujwal" target="blank"><img align="center" src="https://github.com/chsaiujwal/chsaiujwal/blob/main/telegram-app.png" alt="chsaiujwal" height="60" width="60" /></a>
+<a href="https://twitter.com/Navanjana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chsaiujwal" height="60" width="60" /></a>
+<a href="https://instagram.com/Navanjana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="saiujwalch" height="60" width="60" /></a>
+  <a href="https://t.me/NA_VA_N_JA_NA1" target="blank"><img align="center" src="https://github.com/chsaiujwal/chsaiujwal/blob/main/telegram-app.png" alt="chsaiujwal" height="60" width="60" /></a>
   <a href="https://www.reddit.com/user/TheCruelPsychopath" target="blank"><img align="center" src="https://github.com/chsaiujwal/chsaiujwal/blob/main/reddit--v2.png" alt="saiujwalch" height="60" width="60" /></a>
   <a href="https://www.hackerrank.com/chsaiujwal/" target="blank">
   <img height="70" width="70" align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/160_Hackerrank_logo_logos-1024.png"/>
